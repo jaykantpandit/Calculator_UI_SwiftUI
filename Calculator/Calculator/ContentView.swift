@@ -150,9 +150,6 @@ struct ContentView: View {
         .ignoresSafeArea()
     }
     
-    
-    
-    
     private func didButtonTapped(value: String){
         print(value)
     }
